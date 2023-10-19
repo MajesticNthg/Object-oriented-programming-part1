@@ -1,5 +1,3 @@
-import java.util.Random;
-import java.util.Scanner;
 class Hero {
     String heroName; // имя героя
     String attribute; // атрибут героя
